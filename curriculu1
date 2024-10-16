@@ -1,0 +1,28 @@
+# Introduction to Programming and Mathematics for Computer Science
+
+## Course Overview:
+This course provides an introduction to fundamental programming and mathematical concepts essential for computer science students.
+
+### Learning Outcomes:
+- Develop programming skills using Python.
+- Apply algebra, calculus, and logic to computational problems.
+- Solve problems using data structures and algorithms.
+
+### Weekly Schedule:
+| Week | Topic | Key Concepts | Lab Exercises |
+|------|-------|--------------|---------------|
+| 1 | Introduction to Python and Algebra | Variables, data types, equations | Python setup, arithmetic operations |
+| 2 | Control Structures and Algebra | Loops, conditionals, linear equations | Control flow, equation solving |
+| 3 | Functions and Linear Algebra | Functions, matrix operations | Python functions, matrix manipulation |
+...
+
+### Assessment Criteria:
+1. Weekly assignments (40%)
+2. Mid-term exam (20%)
+3. Final project (20%)
+4. Final exam (20%)
+
+### Sample Materials:
+- [Lecture Slides](slides/week1.pdf)
+- [Assignments](assignments/week1.md)
+- [Project Guidelines](projects/final
