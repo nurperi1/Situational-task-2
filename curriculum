@@ -1,0 +1,170 @@
+Course Overview:
+Course Title:
+Introduction to Programming and Mathematics for Computer Science
+
+Course Description:
+This course introduces students to essential programming concepts and mathematical foundations required in computer science. It covers basic programming skills (e.g., variables, loops, functions) and key mathematical concepts (e.g., algebra, calculus, and logic). The course emphasizes hands-on learning through coding exercises, mathematical problem-solving, and real-world applications, preparing students for advanced studies in computer science.
+
+Target Audience:
+First-year undergraduate students pursuing computer science, data science, or related fields.
+
+Learning Outcomes:
+By the end of the course, students will be able to:
+
+Understand basic programming constructs and apply them to solve problems.
+Develop simple programs using loops, conditionals, functions, and data structures.
+Demonstrate proficiency in basic mathematical operations, including algebra, calculus, and logic.
+Apply mathematical concepts to computational problems.
+Analyze and debug code efficiently.
+Course Structure:
+Duration: 12 weeks
+Lectures per week: 2 (90 minutes each)
+Lab sessions per week: 1 (2 hours)
+Assignments: Weekly programming/mathematics exercises
+Exams: Mid-term and Final Exam
+Week-by-Week Breakdown
+Week 1: Introduction to Programming and Mathematics
+Lecture Topics:
+Introduction to programming languages (focus on Python)
+Variables, data types, and basic operations
+Overview of algebra: equations, expressions, and functions
+Lab Session:
+Setting up Python environment and writing first "Hello World" program
+Simple arithmetic operations in Python
+Assignment:
+Write a Python program to perform arithmetic operations (addition, subtraction, multiplication, division).
+Solve a set of algebraic expressions.
+Assessment Criteria:
+Correctness of Python code.
+Understanding of basic algebra.
+Week 2: Control Structures and Algebraic Expressions
+Lecture Topics:
+Control structures: if-else, loops (for, while)
+Algebraic simplification and solving linear equations
+Lab Session:
+Implementing control structures in Python (loops and conditionals)
+Python program to solve linear algebraic equations
+Assignment:
+Develop a program to calculate the factorial of a number.
+Solve a set of linear algebraic equations using Python.
+Assessment Criteria:
+Efficient use of loops and conditionals.
+Accuracy in solving algebraic problems.
+Week 3: Functions and Linear Algebra
+Lecture Topics:
+Introduction to functions: definition, parameters, and return values
+Matrices, vectors, and matrix operations
+Lab Session:
+Writing Python functions to perform specific tasks
+Simple matrix operations using Python (NumPy)
+Assignment:
+Write a Python program to compute the transpose of a matrix.
+Implement basic matrix multiplication in Python.
+Assessment Criteria:
+Correct implementation of functions.
+Understanding of matrix operations.
+Week 4: Recursion and Calculus Basics
+Lecture Topics:
+Introduction to recursion
+Differentiation: limits, derivatives, and rules of differentiation
+Lab Session:
+Writing recursive Python functions (e.g., Fibonacci sequence)
+Implementing basic differentiation in Python using symbolic computation (SymPy)
+Assignment:
+Write a recursive program to find the nth Fibonacci number.
+Solve differentiation problems using Python.
+Assessment Criteria:
+Proper use of recursion.
+Correct implementation of differentiation.
+Week 5: Data Structures and Limits
+Lecture Topics:
+Lists, tuples, and dictionaries in Python
+Limits: understanding and calculating limits of functions
+Lab Session:
+Manipulating lists, tuples, and dictionaries in Python
+Solving limit problems with Python
+Assignment:
+Write a program that stores student data in a dictionary and calculates the average grade.
+Calculate the limit of a function as x approaches infinity.
+Assessment Criteria:
+Proficiency in handling Python data structures.
+Correct calculation of limits.
+Week 6: Mid-Term Exam Review and Assessment
+Lecture Topics:
+Review of programming and mathematics topics covered so far
+Lab Session:
+Practice exercises and preparation for mid-term exam
+Mid-Term Exam:
+50% programming-based questions (loops, functions, recursion)
+50% mathematics-based questions (algebra, matrices, limits)
+Week 7: Introduction to Object-Oriented Programming and Integration
+Lecture Topics:
+Basic concepts of object-oriented programming (OOP): classes, objects, methods
+Integration: definite and indefinite integrals
+Lab Session:
+Writing simple classes and methods in Python
+Implementing integration using SymPy
+Assignment:
+Write a Python class for a simple bank account system.
+Calculate the integral of a function symbolically.
+Assessment Criteria:
+Correct implementation of OOP principles.
+Accuracy in solving integral problems.
+Week 8: Advanced Data Structures and Calculus Applications
+Lecture Topics:
+Stacks, queues, and linked lists
+Applications of integrals in physics and computer science
+Lab Session:
+Implementing stacks and queues in Python
+Solving applied integral problems
+Assignment:
+Write a Python program to simulate a queue system.
+Solve applied integral problems (e.g., area under curves).
+Assessment Criteria:
+Proficiency in advanced data structures.
+Correct application of integral techniques.
+Week 9: Searching, Sorting, and Mathematical Logic
+Lecture Topics:
+Searching and sorting algorithms: linear search, binary search, bubble sort, merge sort
+Introduction to logic: propositions, predicates, logical connectives
+Lab Session:
+Implementing search and sort algorithms in Python
+Solving logical problems using Python
+Assignment:
+Write Python programs for linear and binary search.
+Implement a logic-based solution using Python.
+Assessment Criteria:
+Correctness and efficiency of algorithms.
+Understanding of logical reasoning.
+Week 10: Graphs, Trees, and Discrete Mathematics
+Lecture Topics:
+Introduction to graphs and trees: basic traversal algorithms (DFS, BFS)
+Sets, relations, and combinatorics
+Lab Session:
+Implementing graph traversal in Python
+Solving problems on sets and combinatorics
+Assignment:
+Write a Python program to traverse a graph using DFS.
+Solve set theory problems and combinatorial calculations using Python.
+Assessment Criteria:
+Proper implementation of graph algorithms.
+Correct understanding of discrete mathematics concepts.
+Week 11: Final Project Review and Exam Preparation
+Lecture Topics:
+Review of advanced programming and mathematical concepts
+Lab Session:
+Work on final project (combining programming and mathematical problem-solving)
+Final Project:
+Develop a Python program that integrates programming concepts (data structures, recursion, OOP) and applies mathematical principles (algebra, calculus, logic) to solve a real-world problem.
+Week 12: Final Exam
+Final Exam Topics:
+Comprehensive exam covering programming (loops, functions, recursion, OOP, data structures) and mathematics (algebra, calculus, logic, discrete math)
+Assessments
+Weekly Assignments: 40%
+Mid-Term Exam: 20%
+Final Project: 20%
+Final Exam: 20%
+Course Materials:
+Lecture Slides: Each lecture will have dedicated slides covering key concepts and examples.
+Assignments: Weekly exercises focusing on both programming and mathematical problem-solving.
+Exams: Mid-term and final exams that assess students' understanding of the course material.
